@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.exe
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.deps.json
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.runtimeconfig.json
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.runtimeconfig.dev.json
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.dll
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\PRUEBA ANDRES.pdb
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\System.Data.SQLite.pdb
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\System.Data.SQLite.xml
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll.config
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA_ANDRES.Form1.resources
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.csproj.CopyComplete
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.dll
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.pdb
+C:\Users\Alumnos\source\repos\PRUEBA ANDRES\obj\Debug\netcoreapp3.1\PRUEBA ANDRES.genruntimeconfig.cache
